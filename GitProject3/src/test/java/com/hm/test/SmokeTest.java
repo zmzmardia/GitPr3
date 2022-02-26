@@ -9,5 +9,10 @@ public class SmokeTest extends BaseTest{
 	public void test1() throws InterruptedException {
 		
 	}
+	
+	@Test
+	public void test2() throws InterruptedException {
+		
+	}
 
 }
