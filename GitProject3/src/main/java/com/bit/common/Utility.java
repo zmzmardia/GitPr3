@@ -18,5 +18,8 @@ public class Utility {
 	public void typeOnElement(By by, String value){
 		dr.findElement(by).sendKeys(value);
 	}
+	public void click(WebElement ele ) {
+		ele.click();
+	}
 
 }
