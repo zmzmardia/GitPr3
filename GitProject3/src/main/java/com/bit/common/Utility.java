@@ -21,5 +21,9 @@ public class Utility {
 	public void click(WebElement ele ) {
 		ele.click();
 	}
+	
+	public void click4(WebElement ele ) {
+		ele.click();
+	}
 
 }
